@@ -41,7 +41,7 @@ $(document).ready(function () {
     $("#contact-form").submit(function (event) {
         emailjs.init("dlBbvJXhRn94NCo1k");
 
-        emailjs.sendForm('ramseybraimah@gmail.com', 'template_ahl1v3b', '#contact-form')
+        emailjs.sendForm('ashabajasper@gmail.com', 'template_ahl1v3b', '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Ramsey Bramah";
+            document.title = "Portfolio | Ashaba Jasper";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
