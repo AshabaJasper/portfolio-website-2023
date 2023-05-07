@@ -1,5 +1,5 @@
 # portfolio-website-2023
-A personal
+A personal portfolio
 
 
 This is my portfolio website
