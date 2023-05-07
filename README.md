@@ -1,8 +1,8 @@
 # portfolio-website-2023
-A personal portfolio
+A personal portfolio website.
 
 
-This is my portfolio website
+Meant to be editted
 
 you can check it out
 
