@@ -1,5 +1,5 @@
 # portfolio-website-2023
-Ramsey braimah(me) personal portfolio website 
+A personal
 
 
 This is my portfolio website
